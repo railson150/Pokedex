@@ -1,5 +1,7 @@
 # pokedex
 
+![](/src/assets/print.PNG)
+
 ## Project setup
 ```
 npm install
